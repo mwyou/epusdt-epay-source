@@ -1,7 +1,7 @@
 # Epusdt EPay source packages
 
-This public repository publishes versioned GPL-3.0 source bundles corresponding to the public Docker images at `cotelforce/epusdt-epay`.
+This public repository preserves versioned GPL-3.0 source bundles for Epusdt EPay releases.
 
-Open a versioned release and download its `epusdt-epay-source-<version>.tar.gz` asset. The archive contains the exact source tree used to build that image, including the license and attribution files. It does not contain the private development repository's Git history.
+Open a versioned release and download its `epusdt-epay-source-<version>.tar.gz` asset. The archive contains the source tree used to build that version, including the license and attribution files. It does not contain a Git history.
 
-Private development and release automation: https://github.com/mwyou/epusdt-epay
+The `v2.0.0-epay.7` source archive corresponds to the BSC-only build published on 2026-11-18. The associated Docker Hub repository has since been deleted at the maintainer's request, so no container image is currently available from Docker Hub.
