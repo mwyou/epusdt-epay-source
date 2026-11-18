@@ -1,7 +1,7 @@
-# Epusdt EPay source packages
+# APIOAI Upay corresponding source packages
 
-This public repository preserves versioned GPL-3.0 source bundles for Epusdt EPay releases.
+This public repository publishes versioned GPL-3.0 source archives for APIOAI Upay Docker releases.
 
-Open a versioned release and download its `epusdt-epay-source-<version>.tar.gz` asset. The archive contains the source tree used to build that version, including the license and attribution files. It does not contain a Git history.
+Download the exact corresponding source archive from each versioned release. The `v2.0.0-epay.8` release contains the source tree for the BSC-only APIOAI Upay build. Its Docker Hub image name is `cotelforce/apioai-upay`.
 
-The `v2.0.0-epay.7` source archive corresponds to the BSC-only build published on 2026-11-18. Its Docker Hub image repository was deleted at the maintainer's request. No Docker image is currently available from Docker Hub.
+The maintainer's development repository is private. The versioned archive in each public release is available without authentication and includes the corresponding source code, license, and attribution files.
